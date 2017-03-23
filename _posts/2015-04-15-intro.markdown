@@ -3,7 +3,6 @@ layout:     post
 title:      "I know, I know"
 date:       2015-04-15 12:00:00
 author:     "Mark"
-header-img: "img/post-bg-06.jpg"
 ---
 
 <p>Yeah, I know, about time I started doing this again.</p>

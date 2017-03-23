@@ -1,1 +1,0 @@
-# adnamsale.github.io
